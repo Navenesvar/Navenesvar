@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Navenesvar
 - 👀 I’m interested in coding using python,C,JAVA.
 - 🌱 I’m currently doing BE Computer Science Engineering in Loyola-ICAM College of Engineering and Technology.
--  I enjoy working on projects from web development and machine learning.
+-  I enjoy working on projects from Machine learning and web development.
 -  Currently learning Deep learning.
 - 📫 How to reach me ...
 -    email id : navenesvar@gmail.com
