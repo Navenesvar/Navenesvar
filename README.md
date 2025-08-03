@@ -44,7 +44,7 @@
 ---
 
 ## 🛠 Projects
-- 🎧 **BeatBox**=: A music web app to upload, listen, and manage tracks.  
+- 🎧 **BeatBox**: A music web app to upload, listen, and manage tracks.  
 - 🗣️ **SpeechToText**: A multilingual speech translation app using Python & Google APIs.  
 - 🚦 **Reinforcement Learning Traffic Control**: Smart D3QN-based agents trained in SUMO for efficient traffic flow.
 
