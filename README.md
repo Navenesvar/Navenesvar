@@ -5,7 +5,7 @@
 - 🌱 Currently learning and building with Python, PyTorch and Java.
 - 👀 Interested in Deep Learning, Web Applications, and Reinforcement Learning.
 - 🏆 2nd Rank Holder in my department for 2022–23 and 2023–24 (Anna University).
-- 🧠 Participated in hackathons and published multiple academic projects.
+- 🧠 Participated in hackathons and done multiple academic projects.
 - 📫 How to reach me:
   - Email: [navenesvar@gmail.com](mailto:navenesvar@gmail.com)
   - GitHub: [@Navenesvar](https://github.com/Navenesvar)
