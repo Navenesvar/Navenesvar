@@ -2,7 +2,6 @@
 
 🎓 B.E. Computer Science and Engineering student at **Loyola-ICAM College of Engineering and Technology**, passionate about AI, web development, and real-world problem-solving through code.
 
-- 🌱 Currently learning and building with Python, PyTorch and Java.
 - 👀 Interested in Deep Learning, Web Applications, and Reinforcement Learning.
 - 🏆 2nd Rank Holder in my department for 2022–23 and 2023–24 (Anna University).
 - 🧠 Participated in hackathons and done multiple academic projects.
