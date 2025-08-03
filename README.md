@@ -2,7 +2,7 @@
 
 🎓 B.E. Computer Science Engineering student at **Loyola-ICAM College of Engineering and Technology**, passionate about AI, web development, and real-world problem-solving through code.
 
-- 🌱 Currently learning and building with Python, Java, React, Django, PyTorch, and more.
+- 🌱 Currently learning and building with Python, PyTorch and Java.
 - 👀 Interested in Deep Learning, Web Applications, and Reinforcement Learning.
 - 🏆 2nd Rank Holder in my department for 2022–23 and 2023–24 (Anna University).
 - 🧠 Participated in hackathons and published multiple academic projects.
@@ -16,6 +16,7 @@
 
 <p align="left">
 
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&theme=dark"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&theme=dark"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white&theme=dark"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&theme=dark"/>
@@ -35,6 +36,7 @@
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&theme=dark"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&theme=dark"/>
   <img src="https://img.shields.io/badge/Deep_RL-000000?style=for-the-badge&logo=openai&logoColor=white&theme=dark"/>
+  <img src="https://img.shields.io/badge/CNN-FF4C4C?style=for-the-badge&logo=tensorflow&logoColor=white&theme=dark"/>
   <img src="https://img.shields.io/badge/Microservices-0A66C2?style=for-the-badge&logo=docker&logoColor=white&theme=dark"/>
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&theme=dark"/>
 
