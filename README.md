@@ -2,7 +2,7 @@
 
 🎓 B.E. Computer Science and Engineering graduate at **Loyola-ICAM College of Engineering and Technology**, passionate about AI, web development, and real-world problem-solving through code.
 
-- 👀 Interested in Deep Learning, Web Applications, and Reinforcement Learning.
+- 👀 Interested in Web Applications, Deep Learning and Reinforcement Learning.
 - 🏆 2nd Rank Holder in my department for 2022–23 and 2023–24 (Anna University).
 - 🧠 Participated in hackathons and done multiple academic projects.
 - 📫 How to reach me:
@@ -47,6 +47,7 @@
 ---
 
 ## 🛠 Projects
+- 🕛 **Quizzer** : A quiz web app where users can create and take quizes created by other users.
 - 🎧 **BeatBox**: A music web app to upload, listen, and manage tracks.  
 - 🗣️ **SpeechToText**: A multilingual speech translation app using Python & Google APIs.  
 - 🚦 **Reinforcement Learning Traffic Control**: Smart D3QN-based agents trained in SUMO for efficient traffic flow.
@@ -54,6 +55,7 @@
 ---
 
 ## 🏅 Certifications
+- Wipro TalentNext Java Full Stack Course
 - Microsoft & SAP IR4.0 Foundation Course  
 - Python, Java, Problem Solving – HackerRank  
 - Power BI Intermediate – VOIS  
