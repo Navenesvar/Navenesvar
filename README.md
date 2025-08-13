@@ -3,7 +3,6 @@
 🎓 B.E. Computer Science and Engineering graduate at **Loyola-ICAM College of Engineering and Technology**, passionate about AI, web development, and real-world problem-solving through code.
 
 - 👀 Interested in Web Applications, Deep Learning and Reinforcement Learning.
-- 🏆 2nd Rank Holder in my department for 2022–23 and 2023–24 (Anna University).
 - 🧠 Participated in hackathons and done multiple academic projects.
 - 📫 How to reach me:
   - Email: [navenesvar@gmail.com](mailto:navenesvar@gmail.com)
