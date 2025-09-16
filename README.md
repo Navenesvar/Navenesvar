@@ -69,7 +69,7 @@ Solved **20+ distinct problems** across **C#**, **Unity**, **FBX import**, **pre
 ## 🏅 Certifications
 - Wipro TalentNext Java Full Stack Course
 - Microsoft & SAP IR4.0 Foundation Course  
-- Python, Java – HackerRank  
+- Python(Basic), Java(Basic), Problem Solving(Basic) – HackerRank  
 - Power BI Intermediate – VOIS  
 - Socio-Tech Hackathon – KPR College  
 - CODEATHON Runner-up – IEEE LICET  
