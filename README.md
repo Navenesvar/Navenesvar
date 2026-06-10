@@ -56,7 +56,7 @@ Passionate about software development and building technology-driven solutions. 
 
 ---
 
-## 🛠️ Debugging Sumonity (SUMO + Unity Integration)
+## 🛠️ Debugged Sumonity (SUMO + Unity Integration)
 
 Successfully set up and debugged the **default Sumonity simulation** (SUMO traffic in Unity 3D).  
 Solved **20+ distinct problems** across **C#**, **Unity**, **FBX import**, **prefab setup**, and **SUMO route configuration**.
