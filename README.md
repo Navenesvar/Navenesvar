@@ -1,13 +1,12 @@
-# 👋 Hi there, I'm Navenesvar!
+# 👋 Hi, I'm Navenesvar
 
-🎓 B.E. Computer Science and Engineering graduate at **Loyola-ICAM College of Engineering and Technology**, passionate about AI, web development, and real-world problem-solving through code.
+🎓 Computer Science and Engineering Graduate
 
-- 👀 Interested in Web Applications, Deep Learning and Reinforcement Learning.
-- 🧠 Participated in hackathons and done multiple academic projects.
-- 📫 How to reach me:
-  - Email: [navenesvar@gmail.com](mailto:navenesvar@gmail.com)
-  - GitHub: [@Navenesvar](https://github.com/Navenesvar)
-  - LinkedIn: [linkedin.com/in/navenesvar-k-745683230](https://www.linkedin.com/in/navenesvar-k-745683230/)
+Passionate about software development and building technology-driven solutions. Experienced in developing web applications, backend systems, and AI-based projects through academic and personal projects.
+
+- 💻 Skilled in Java, Python, Spring Boot, SQL, and Web Technologies
+- 🚀 Experience in developing full-stack and backend applications
+- 🤖 Worked on Machine Learning and Reinforcement Learning projects
 
 ---
 ## ⚙️ Tech Stack
