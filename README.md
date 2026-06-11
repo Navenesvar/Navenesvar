@@ -4,7 +4,7 @@
 
 Passionate about software development and building technology-driven solutions. Experienced in developing web applications, backend systems, and AI-based projects through academic and personal projects.
 
-- 💻 Skilled in Java, Python, Spring Boot, SQL, and Web Technologies
+- 💻 Skilled in Java, Python, Spring Boot, SQL.
 - 🚀 Experience in developing full-stack and backend applications
 - 🤖 Worked on Machine Learning and Reinforcement Learning projects
 
