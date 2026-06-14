@@ -48,8 +48,6 @@ Passionate about software development and building technology-driven solutions. 
 
 - 🛒 **E-Commerce Application**: A full-stack e-commerce platform built with React, Spring Boot, MySQL, and JWT Authentication, featuring role-based access control, product management, cart functionality, and user-specific order management.
 
-- 🧠 **FlexiLearn**: An AI-powered learning platform for neurodiverse learners using Llama 3.1 and LoRA fine-tuning to generate personalized coursework and improve learning accessibility.
-
 - 📝 **Smart Exam Portal**: A full-stack exam management system built with React and Django that enables MCQ-based assessments with real-time timers, auto-submission, instant evaluation, and REST API integration.
 
 - 🖼️ **CIFAR Image Classification**: A deep learning web application developed using PyTorch and Streamlit, utilizing a custom CNN trained on the CIFAR-10 dataset to classify images with over 90% training accuracy.
